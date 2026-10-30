@@ -30,3 +30,4 @@ Initial official release of the verified and validated OpenCore 1.0.8 EFI for th
 1. **Dell BIOS Storage Setting**: Switch **SATA Operation** from `RAID On` (Intel VMD) to **`AHCI / NVMe`**.
 2. **Secure Boot**: Set to **Disabled**.
 3. **USB Installer**: Extract the ZIP, place `EFI` onto your FAT32 USB drive, and add `com.apple.recovery.boot`.
+
